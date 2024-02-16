@@ -1,0 +1,39 @@
+﻿@using Entity.DTO.Article;
+@model List<ArticleDto>
+
+@*
+<div class="content">
+    <ul>
+        <li>
+            <a href="post-details.html">
+                <h5>Vestibulum id turpis porttitor sapien facilisis scelerisque</h5>
+                <span>May 31, 2020</span>
+            </a>
+        </li>
+        <li>
+            <a href="post-details.html">
+                <h5>Suspendisse et metus nec libero ultrices varius eget in risus</h5>
+                <span>May 28, 2020</span>
+            </a>
+        </li>
+        <li>
+            <a href="post-details.html">
+                <h5>Swag hella echo park leggings, shaman cornhole ethical coloring</h5>
+                <span>May 14, 2020</span>
+            </a>
+        </li>
+    </ul>
+</div>*@
+<div class="content">
+    <ul>
+        @foreach (var article in Model.OrderByDescending(a => a.CreatedDate).Take(3))
+        {
+            <li>
+                <a href="@Url.Action("Details", "Articles", new { id = article.Id })">
+                    <h5>@article.Title</h5>
+                    <span>@article.CreatedDate.ToString("MMMM dd, yyyy")</span>
+                </a>
+            </li>
+        }
+    </ul>
+</div>

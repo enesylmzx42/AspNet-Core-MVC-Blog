@@ -36,7 +36,7 @@ Kullanıcı ve yönetici paneli . Kullanıcıların ve yöneticilerin site üzer
 
 
 
-
+![mergennn](https://github.com/enesylmzx42/Blog_Project_ASPNET/assets/117593621/7bffa9c6-e3e8-4bf0-a15d-eff09eb5e27b)
 ![mergen3](https://github.com/enesylmzx42/Blog_Project_ASPNET/assets/117593621/ecfc053e-1eec-411c-b63f-d1b624d68c2c)
 ![mergen4](https://github.com/enesylmzx42/Blog_Project_ASPNET/assets/117593621/3de07de8-ef6e-4609-a208-a8a1816251da)
 ![mergen2](https://github.com/enesylmzx42/Blog_Project_ASPNET/assets/117593621/ebed8ad5-8373-400e-bde1-b061ab18fcd9)

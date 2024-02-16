@@ -35,6 +35,10 @@ Kullanıcı ve yönetici paneli . Kullanıcıların ve yöneticilerin site üzer
  - Çöp kutusunaki silinmiş blog ve kategori tekrardan aktif hale getirebilir.
 
 ![mergen1](https://github.com/enesylmzx42/Blog_Project_ASPNET/assets/117593621/04b8b5e3-4aeb-4371-8a74-bebe9f85ef96)
+![mergen3](https://github.com/enesylmzx42/Blog_Project_ASPNET/assets/117593621/ecfc053e-1eec-411c-b63f-d1b624d68c2c)
+![mergen2](https://github.com/enesylmzx42/Blog_Project_ASPNET/assets/117593621/ebed8ad5-8373-400e-bde1-b061ab18fcd9)
+![mergen4](https://github.com/enesylmzx42/Blog_Project_ASPNET/assets/117593621/3de07de8-ef6e-4609-a208-a8a1816251da)
+
 
 
    

@@ -32,6 +32,9 @@ Kullanıcı ve yönetici paneli . Kullanıcıların ve yöneticilerin site üzer
  - Bütün kullanıcıları listeler . Bir kullanıcı ekleyebilir , düzenleyebilir veya silebilir.
  - Bütün blogları listeler. Bir blog ekleyebilir , düzenleyebilir veya silebilir.
  - Bütün kategorileri listeler. Bir kategori ekleyebilir , düzenleyebilir veya silebilir.
- - Çöp kutusunaki silinmiş blog ve kategori tekrardan aktif hale getirebilir. 
+ - Çöp kutusunaki silinmiş blog ve kategori tekrardan aktif hale getirebilir.
+
+![mergen1](https://github.com/enesylmzx42/Blog_Project_ASPNET/assets/117593621/04b8b5e3-4aeb-4371-8a74-bebe9f85ef96)
+
 
    

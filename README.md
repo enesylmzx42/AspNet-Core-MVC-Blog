@@ -1,12 +1,12 @@
 #  Blog Project
 
-Blog - ASP.NET Core 6 MVC yapısında geliştirilmiş bir web uygulamasıdır. 
+Blog - ASP.NET Core MVC yapısında geliştirilmiş bir web uygulamasıdır. 
 
 Proje kapsamında kullanılan teknolojiler
 
 -  C#
--  ASP.NET Core MVC 6
--  Entity Framework Core 6
+-  ASP.NET Core MVC 
+-  Entity Framework Core 
 -  Unit of Work
 -  AutoMapper
 -  JavaScript 

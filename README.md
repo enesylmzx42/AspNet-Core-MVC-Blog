@@ -13,20 +13,18 @@ Technologies used within the project:
 -  Ajax
 -  MSSQL
 <br>
-<br>
-<br>
-
+<br> 
 
 
 In this project, there are two different panels: the User Panel and the Admin Panel. Users and administrators have the following capabilities on the site:
 
-### Kullanıcılar
+### USER
 - Can read, create, and edit blogs.
 - Can update their own profile settings.
 - Can add and delete categories.
 
 
- ### Yöneticiler
+ ### ADMIN
 - Lists all users and can add, edit, or delete any user.
 - Lists all blogs and can add, edit, or delete any blog.
 - Lists all categories and can add, edit, or delete any category.

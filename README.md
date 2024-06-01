@@ -35,5 +35,11 @@ In this project, there are two different panels: the User Panel and the Admin Pa
 
 
 
+![mergennn](https://github.com/enesylmzx42/CNN-LetterRecognition-JS-Flask/assets/117593621/6208b747-6650-4f4f-8f48-a57c744fad1c)
+![mergen2](https://github.com/enesylmzx42/CNN-LetterRecognition-JS-Flask/assets/117593621/438ff022-48fd-4f4b-a5db-7369c4ea1096)
+
+
+
+
 
    

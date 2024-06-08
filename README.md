@@ -35,6 +35,8 @@ In this project, there are two different panels: the User Panel and the Admin Pa
 
 
 
-## LINK
-https://drive.google.com/file/d/1B7cZaOX57EU5rTXTLDpEkYSPmHqj4t4l/view?usp=drive_link
-   
+## GIF 
+
+![aaa](https://github.com/enesylmzx42/AspNet-Core-MVC-Blog/assets/117593621/c46ad3f0-e8f2-4ef4-a541-e72f6377fa8e)
+
+

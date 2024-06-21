@@ -1,4 +1,4 @@
-#  MERGEN
+#  Blog 
 
 It is a web application developed in the ASP.NET Core MVC framework.
 
